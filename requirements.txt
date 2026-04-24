@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+fastapi
+uvicorn
+requests
+apache-airflow-providers-postgres
+psycopg2-binary
